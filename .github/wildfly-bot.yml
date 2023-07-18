@@ -25,3 +25,5 @@ wildfly:
     commits-quantity:
       quantity: "1-3"
       message: "Too many commits in PR!"
+  emails:
+    - xstefank122@gmail.com
